@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ben!
 
-Welcome to my GitHub profile! I'm an MSci Computer Science graduate from the University of Nottingham, currently looking for graduate software engineering and data roles in London. Most of my side projects come from things I'm actually interested in. I run a Pokémon TCG resale business, and a lot of my tooling has grown out of that. Away from the keyboard I play guitar, chess and football.
+Welcome to my GitHub profile! I'm an MSci Computer Science graduate from the University of Nottingham, currently looking for graduate software engineering and data roles in London. Most of my side projects come from things I'm actually interested in. I run a Pokémon TCG trading business buying and selling product and building tools to help with this.  Away from the keyboard I play guitar, chess and football.
 
 ## 🚀 Skills & Technologies
 
