@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an MSci Computer Science graduate from the Uni
 | --- | --- | --- | --- |
 | **Data Analyst** | Sealabs (Union Maritime Ltd) | • Built Python automation tools for analysing large vessel datasets, replacing manual spreadsheet work.<br>• Second summer with the business, returning into a more analysis-focused role. | Python, pandas |
 | **Data Scientist Intern** | Union Maritime Ltd | • Designed and built Python ETL pipelines using SQLAlchemy against a SQL Server database.<br>• Worked with the data team to clean and consolidate operational shipping data into a queryable form. | Python, SQLAlchemy, SQL Server |
-| **Technical Support** | Everyman Driving | • Handled day-to-day technical issues for staff and customers, diagnosing and resolving problems end to end. | N/A |
+| **Technical Support** | Everyman Driving | • Handled day to day technical issues for staff and customers, diagnosing and resolving problems end to end. | N/A |
 
 ## 📫 Get in touch
 
